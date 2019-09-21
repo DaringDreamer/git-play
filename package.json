@@ -1,0 +1,27 @@
+{
+  "name": "git-play",
+  "version": "1.0.0",
+  "description": "it is a sample websited designed by me",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaringDreamer/git-play.git"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "Ramakrishna Nelaturi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaringDreamer/git-play/issues"
+  },
+  "homepage": "https://github.com/DaringDreamer/git-play#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
